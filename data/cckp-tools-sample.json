@@ -1,0 +1,997 @@
+[
+    {
+        "toolId": null,
+        "toolName": "complementcovid",
+        "description": "MySQL and python libraries (pymysql, pandas) were used to extract and prepare the data for modeling. The code for data preparation is available in the github (https:\/\/github.com\/tatonetti-lab\/complementcovid) as a Jupyter Notebook titled Data Setup.",
+        "homepage": "https:\/\/github.com\/tatonetti-lab\/complementcovid",
+        "version": null,
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome",
+        "operation": "Statistical calculation|Data retrieval|Statistical inference|Correlation",
+        "inputData": [
+            "Clinical record"
+        ],
+        "outputData": [
+            "Correlation matrices",
+            "Statistical results"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "CSV",
+            "JSON",
+            "xlsx"
+        ],
+        "functionNote": null,
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Notebook"
+        ],
+        "topic": [
+            "Bioinformatics",
+            "Infectious disease",
+            "Allergy, clinical immunology and immunotherapeutics"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python"
+        ],
+        "license": "Not licensed",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/tatonetti-lab\/complementcovid",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": null,
+        "documentationUrl": null,
+        "documentationType": [
+            "NA"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "lifelines",
+        "description": "Survival analysis was originally developed and applied heavily by the actuarial and medical community.",
+        "homepage": "https:\/\/github.com\/CamDavidsonPilon\/lifelines",
+        "version": "0.24.4",
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome",
+        "operation": "Statistical calculation|Statistical inference|Incident curve plotting|Regression analysis",
+        "inputData": [
+            "Clinical record"
+        ],
+        "outputData": [
+            "Statistical results",
+            "Plot"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Graph format"
+        ],
+        "functionNote": "Survival analysis was performed on the intubation orders and death using a Cox proportional-hazards model and visualized the risk using Kaplan-Meier curves using the lifelines python package (version 0.24.4).",
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Notebook"
+        ],
+        "topic": [
+            "Bioinformatics",
+            "Infectious disease",
+            "Allergy, clinical immunology and immunotherapeutics"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python"
+        ],
+        "license": "MIT",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/CamDavidsonPilon\/lifelines",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "0.26.0",
+        "documentationUrl": "https:\/\/lifelines.readthedocs.io\/en\/latest\/index.html",
+        "documentationType": [
+            "General",
+            "Installation instructions",
+            "Quick start guide",
+            "User manual",
+            "Citation instructions"
+        ],
+        "documentationNote": null,
+        "linkUrl": "http:\/\/doi.org\/10.5281\/zenodo.4816284",
+        "linkType": "Repository",
+        "linkNote": "Supplement to https:\/\/github.com\/CamDavidsonPilon\/lifelines\/tree\/0.26.0",
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "ehr_prevalence",
+        "description": "This project analyzes an OMOP database to measure EHR prevalence and co-occurrence frequencies of all observed conditions, drugs, procedures and patient demographics",
+        "homepage": "https:\/\/github.com\/CaseyTa\/ehr_prevalence",
+        "version": null,
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Columbia Open Health Data, clinical concept prevalence and co-occurrence from electronic health records",
+        "operation": "Data retrieval|Database search|Statistical analysis|Aggregation|Query and retrieval ",
+        "inputData": [
+            "Electronic health records"
+        ],
+        "outputData": [
+            "Statistical estimate score",
+            "Prevalence"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Textual format"
+        ],
+        "functionNote": null,
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Web application"
+        ],
+        "topic": [
+            "Medicine",
+            "Medical informatics",
+            "Data mining",
+            "Data architecture, analysis and design"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python",
+            "Shell"
+        ],
+        "license": "Not licensed",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/CaseyTa\/ehr_prevalence",
+        "downloadType": [
+            "Source code"
+        ],
+        "downloadNote": null,
+        "downloadVersion": null,
+        "documentationUrl": "https:\/\/github.com\/CaseyTa\/ehr_prevalence",
+        "documentationType": [
+            "General"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "Data Driven Ontology Toolkit",
+        "description": "DDOT consists of a Python package for assembly and analysis of data-driven hierarchies and a web application (http:\/\/hiview.ucsd.edu) for visualizing them.",
+        "homepage": "https:\/\/github.com\/michaelkyu\/ddot",
+        "version": "v1.0rc3",
+        "grantId": [
+            "syn10140998"
+        ],
+        "grantName": [
+            "The Cancer Cell Map Initiative"
+        ],
+        "grantNumber": [
+            "CA209891"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "DDOT: A Swiss Army Knife for Investigating Data-Driven Biological Ontologies",
+        "operation": "Statistical inference|Network analysis|Ontology alignment|Ontology visualisation",
+        "inputData": [
+            "Ontology data",
+            "Ontology mapping",
+            "Hierarchy",
+            "Gene name"
+        ],
+        "outputData": [
+            "Ontology data",
+            "Pathway or network",
+            "Hierarchy",
+            "Gene tree"
+        ],
+        "inputFormat": [
+            "Ontology format",
+            "Graph format"
+        ],
+        "outputFormat": [
+            "Textual format",
+            "Graph format",
+            "JSON"
+        ],
+        "functionNote": "The Data-Driven Ontology Toolkit (DDOT) facilitates the inference, analysis, and visualization of biological hierarchies using a data structure called an ontology.",
+        "cmd": null,
+        "toolType": [
+            "Desktop application",
+            "Notebook",
+            "Web application"
+        ],
+        "topic": [
+            "Omics",
+            "Gene expression",
+            "Molecular interactions, pathways and networks",
+            "Disease pathways",
+            "Ontology and terminology"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "C++",
+            "Python"
+        ],
+        "license": "MIT",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/michaelkyu\/ddot",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": "Open-source Python package supports Python 2.7 or >=3.6. The HiView web application visualizes hierarchical structure and the biological evidence for that structure.",
+        "downloadVersion": "v1.0rc3",
+        "documentationUrl": "https:\/\/github.com\/michaelkyu\/ddot|https:\/\/ddot.readthedocs.io\/en\/latest\/|https:\/\/github.com\/michaelkyu\/ddot\/blob\/master\/examples\/Tutorial.ipynb",
+        "documentationType": [
+            "General",
+            "Installation instructions",
+            "Citation instructions",
+            "User manual",
+            "Training material"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "Data-Driven Ontology Toolkit (DDOT)",
+        "description": "Toolkit for constructing, analyzing, and visualizing data-driven ontologies",
+        "homepage": "https:\/\/github.com\/idekerlab\/ddot",
+        "version": "v1.0.1\u00a0",
+        "grantId": [
+            "syn10140998"
+        ],
+        "grantName": [
+            "The Cancer Cell Map Initiative"
+        ],
+        "grantNumber": [
+            "CA209891"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "DDOT: A Swiss Army Knife for Investigating Data-Driven Biological Ontologies",
+        "operation": "Network analysis|Ontology visualisation",
+        "inputData": [
+            "Ontology data",
+            "Ontology mapping",
+            "Hierarchy",
+            "Gene name"
+        ],
+        "outputData": [
+            "Ontology",
+            "Matrix",
+            "Pathway or network"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Graph format",
+            "Biological pathway or network format"
+        ],
+        "functionNote": "The main functionalities are implemented in an object-oriented manner by an \"Ontology\" class, which handles ontologies that are data-driven as well as those that are manually curated like the Gene Ontology. Ontology Toolkit (DDOT), consisting of a Python package (https:\/\/github.com\/idekerlab\/ddot) to assemble and analyze ontologies and a web application (http:\/\/hiview.ucsd.edu) to visualize them. ",
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Web application"
+        ],
+        "topic": [
+            "Omics",
+            "Disease pathways",
+            "Ontology and terminology"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python"
+        ],
+        "license": "MIT",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/idekerlab\/ddot",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "v1.0.1\u00a0",
+        "documentationUrl": "https:\/\/github.com\/idekerlab\/ddot|https:\/\/ddot.readthedocs.io\/en\/latest\/",
+        "documentationType": [
+            "General",
+            "Quick start guide",
+            "User manual",
+            "Citation instructions",
+            "Training material"
+        ],
+        "documentationNote": "Contains info on update in v1.0.1 (2020 summer)",
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "palmer-plana-2020",
+        "description": "Mathematica code and data files for article: Comparing the efficacy of cancer therapies between subgroups in basket trials",
+        "homepage": "https:\/\/github.com\/labsyspharm\/palmer-plana-2020",
+        "version": null,
+        "grantId": [
+            "syn12051865"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Pharmacology"
+        ],
+        "grantNumber": [
+            "CA225088"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Comparing the Efficacy of Cancer Therapies between Subgroups in Basket Trials",
+        "operation": "Analysis|Bayesian pathway modeling|Statistical modeling",
+        "inputData": [
+            "Patient outcome data"
+        ],
+        "outputData": [
+            "Histogram"
+        ],
+        "inputFormat": [
+            "TXT"
+        ],
+        "outputFormat": [
+            "Format (by type of data)"
+        ],
+        "functionNote": "Computational analysis for the manuscript",
+        "cmd": null,
+        "toolType": [
+            "Script"
+        ],
+        "topic": [
+            "Drug development",
+            "Oncology"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Linux",
+            "Mac"
+        ],
+        "language": [
+            "Mathematica"
+        ],
+        "license": "MIT License",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/labsyspharm\/palmer-plana-2020",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": "Add files via upload ",
+        "downloadVersion": null,
+        "documentationUrl": "https:\/\/github.com\/labsyspharm\/palmer-plana-2020\/blob\/master\/README.md",
+        "documentationType": [
+            "General"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "CLiP (Correlated Liability Predictors)",
+        "description": "Detecting heterogeneity in GWAS cohorts.CLiP is a statistical tool to detect genotypic heterogeneity in single case\/control GWAS cohorts. Heterogeneity among cases may arise due to a phenotype comprising multiple latent sub-phenotypes. CLiP calculates correlations between associated SNPs and compares them to expected values from summary statistics.",
+        "homepage": "https:\/\/github.com\/jyuan1322\/CLiP",
+        "version": null,
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Leveraging correlations between variants in polygenic risk scores to detect heterogeneity in GWAS cohorts",
+        "operation": "Modeling and simulation|Statistical calculation|Correlation|Genetic variation analysis|Variant effect prediction",
+        "inputData": [
+            "Sequence variations",
+            "Simulation",
+            "Phenotype name"
+        ],
+        "outputData": [
+            "Genotype\/phenotype report",
+            "Score",
+            "Plot"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Textual format",
+            "Graph format",
+            "PNG"
+        ],
+        "functionNote": null,
+        "cmd": null,
+        "toolType": [
+            "Script"
+        ],
+        "topic": [
+            "GWAS study",
+            "Genotype and phenotype",
+            "Statistics and probability"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python"
+        ],
+        "license": "GPL-3.0",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/jyuan1322\/CLiP",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": null,
+        "documentationUrl": "https:\/\/github.com\/jyuan1322\/CLiP",
+        "documentationType": [
+            "General"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "OHDSI Usagi",
+        "description": "The manual drug name mappings step was performed using OHDSI Usagi",
+        "homepage": "https:\/\/github.com\/OHDSI\/usagi",
+        "version": "v1.4.3",
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "A curated and standardized adverse drug event resource to accelerate drug safety research",
+        "operation": "Aggregation|Data retrieval |Query and retrieval |Classification",
+        "inputData": [
+            "Terms",
+            "Drug name"
+        ],
+        "outputData": [
+            "Text",
+            "Drug name"
+        ],
+        "inputFormat": [
+            "CSV",
+            "Textual format"
+        ],
+        "outputFormat": [
+            "CSV",
+            "Textual format"
+        ],
+        "functionNote": "Usagi is an application to help create mappings between coding systems and the Vocabulary standard concepts",
+        "cmd": null,
+        "toolType": [
+            "Script"
+        ],
+        "topic": [
+            "Drug development",
+            "Ontologies, nomenclature and classification",
+            "Ontology and terminology",
+            "Data identity and mapping"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Java"
+        ],
+        "license": "Apache-2.0",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/OHDSI\/usagi",
+        "downloadType": [
+            "Source code"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "v1.4.3",
+        "documentationUrl": "https:\/\/github.com\/OHDSI\/usagi",
+        "documentationType": [
+            "General",
+            "Installation instructions",
+            "Training material"
+        ],
+        "documentationNote": "Tutorial available in \/docs folder of repository",
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "FDA FAERS data",
+        "description": "This publicly available resource, along with the source code, will accelerate drug safety research by reducing the amount of time spent performing data management on the source FAERS reports, improving the quality of the underlying data, and enabling standardized analyses using common vocabularies.",
+        "homepage": "https:\/\/github.com\/ltscomputingllc\/faersdbstats",
+        "version": null,
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "A curated and standardized adverse drug event resource to accelerate drug safety research",
+        "operation": "Data handling|Data retrieval |Database search",
+        "inputData": [
+            "Terms",
+            "Drug name"
+        ],
+        "outputData": [
+            "Drug name",
+            "Drug report",
+            "Statistical estimate score"
+        ],
+        "inputFormat": [
+            "CSV",
+            "Textual format"
+        ],
+        "outputFormat": [
+            "CSV",
+            "Textual format"
+        ],
+        "functionNote": "Standardize FDA LAERS database and FAERS database drugs, indications, reactions and outcomes to OMOP Common Data Model V5 concepts and generate the unique case report counts and safety signal statistics",
+        "cmd": null,
+        "toolType": [
+            "Script"
+        ],
+        "topic": [
+            "Pharmacovigilance",
+            "Drug development",
+            "Statistics and probability",
+            "Ontologies, nomenclature and classification",
+            "Ontology and terminology",
+            "Data identity and mapping",
+            "Data submission, annotation and curation",
+            ""
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Shell",
+            "SQL"
+        ],
+        "license": "Apache-2.0",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/ltscomputingllc\/faersdbstats",
+        "downloadType": [
+            "Source code"
+        ],
+        "downloadNote": null,
+        "downloadVersion": null,
+        "documentationUrl": "https:\/\/github.com\/ltscomputingllc\/faersdbstats\/tree\/master\/documentation",
+        "documentationType": [
+            "General",
+            "Installation instructions"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "cohd",
+        "description": "A database of frequencies of clinical concepts observed at Columbia University Medical Center.",
+        "homepage": "https:\/\/github.com\/CaseyTa\/cohd",
+        "version": null,
+        "grantId": [
+            "syn7315802"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Therapeutics (CaST)"
+        ],
+        "grantNumber": [
+            "CA209997"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Columbia Open Health Data, clinical concept prevalence and co-occurrence from electronic health records",
+        "operation": "Data retrieval|Database search|Query and retrieval ",
+        "inputData": [
+            "Text"
+        ],
+        "outputData": [
+            "Text mining report"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Textual format",
+            "Database search results"
+        ],
+        "functionNote": null,
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Notebook",
+            "Web application"
+        ],
+        "topic": [
+            "Medicine",
+            "Medical informatics",
+            "Data mining"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python"
+        ],
+        "license": "CC-BY-NC-SA-4.0",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/CaseyTa\/cohd",
+        "downloadType": [
+            "Source code"
+        ],
+        "downloadNote": null,
+        "downloadVersion": null,
+        "documentationUrl": "https:\/\/github.com\/CaseyTa\/cohd",
+        "documentationType": [
+            "General"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "Adeft",
+        "description": "Adeft (Acromine based Disambiguation of Entities From Text context) is a utility for building models to disambiguate acronyms and other abbreviations of biological terms in the scientific literature.",
+        "homepage": "https:\/\/github.com\/indralab\/adeft",
+        "version": "v0.11.0",
+        "grantId": [
+            "syn12051865"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Pharmacology"
+        ],
+        "grantNumber": [
+            "CA225088"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Adeft: Acromine-based Disambiguation of Entities from Text with applications to the biomedical literature",
+        "operation": "Database search|Data retrieval|Query and retrieval ",
+        "inputData": [
+            "Text"
+        ],
+        "outputData": [
+            "Text mining report",
+            "Text"
+        ],
+        "inputFormat": [
+            "Textual format"
+        ],
+        "outputFormat": [
+            "Textual format"
+        ],
+        "functionNote": null,
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Notebook"
+        ],
+        "topic": [
+            "Data identity and mapping"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "Python",
+            "TeX"
+        ],
+        "license": "BSD-2-Clause",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/indralab\/adeft",
+        "downloadType": [
+            "Source code"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "v0.11.0",
+        "documentationUrl": "http:\/\/adeft.readthedocs.io\/",
+        "documentationType": [
+            "Installation instructions",
+            "Training material",
+            "Citation instructions"
+        ],
+        "documentationNote": null,
+        "linkUrl": null,
+        "linkType": null,
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "GR metrics",
+        "description": "Dose response measurements that are corrected for inherent differences in cell cycle division times.",
+        "homepage": "http:\/\/www.grcalculator.org",
+        "version": "1.18.0",
+        "grantId": [
+            "syn12051865"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Pharmacology"
+        ],
+        "grantNumber": [
+            "CA225088"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "GRcalculator: an online tool for calculating and mining drug response data",
+        "operation": "Calculation|Analysis|Inhibition quantification|Visualisation",
+        "inputData": [
+            "Growth rate inhibition",
+            "Cell line name",
+            "Cell number",
+            "Concentration",
+            "Treatment agent",
+            "Treatment time"
+        ],
+        "outputData": [
+            "Dose-response data",
+            "Plot"
+        ],
+        "inputFormat": [
+            "CSV",
+            "TSV"
+        ],
+        "outputFormat": [
+            "Graph format"
+        ],
+        "functionNote": "GR metrics is used for offline computation, analysis, and visualization",
+        "cmd": null,
+        "toolType": [
+            "Library"
+        ],
+        "topic": [
+            "Cell biology",
+            "Oncology",
+            "Compound libraries and screening"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "R",
+            "Python"
+        ],
+        "license": "GPL-3.0",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/bioconductor.org\/packages\/release\/bioc\/html\/GRmetrics.html",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "1.18.0",
+        "documentationUrl": "https:\/\/bioconductor.org\/packages\/release\/bioc\/html\/GRmetrics.html",
+        "documentationType": [
+            "General",
+            "Installation instructions",
+            "Citation instructions",
+            "User manual",
+            "Training material"
+        ],
+        "documentationNote": null,
+        "linkUrl": "https:\/\/github.com\/uc-bd2k\/GRmetrics",
+        "linkType": "Repository",
+        "linkNote": null,
+        "portalDisplay": true
+    },
+    {
+        "toolId": null,
+        "toolName": "DRIAD",
+        "description": "DRIAD (Drug Repurposing in Alzheimer's Disease), a machine learning framework that quantifies potential associations between the pathology of AD severity (the Braak stage) and molecular mechanisms as encoded in lists of gene names.",
+        "homepage": "https:\/\/labsyspharm.shinyapps.io\/DRIAD\/",
+        "version": "ncomms",
+        "grantId": [
+            "syn12051865"
+        ],
+        "grantName": [
+            "Center for Cancer Systems Pharmacology"
+        ],
+        "grantNumber": [
+            "CA225088"
+        ],
+        "consortium": [
+            "CSBC"
+        ],
+        "publicationTitle": "Machine learning identifies candidates for drug repurposing in Alzheimer's disease",
+        "operation": "Validation|Prediction and recognition",
+        "inputData": [
+            "Gene expression profile",
+            "Drug-associated gene list",
+            "Gene symbol",
+            "Treatment agent"
+        ],
+        "outputData": [
+            "Plot",
+            "Drug report"
+        ],
+        "inputFormat": [
+            "TSV",
+            "CSV",
+            "xlsx",
+            "xls"
+        ],
+        "outputFormat": [
+            "CSV",
+            "xlsx",
+            "xls",
+            "Graph format"
+        ],
+        "functionNote": "DRIAD is applied to lists of genes arising from perturbations in differentiated human neural cell cultures by 80 FDA-approved and clinically tested drugs, producing a ranked list of possible repurposing candidates. The DRIAD tool utilizes expression data from post-mortem samples of AD patients collected by the\u00a0AMP-AD consortium. Gene sets (must be between 5 and 300 genes in length) are evaluated for their ability to predict Alzheimer's disease progression from gene expression data. ",
+        "cmd": null,
+        "toolType": [
+            "Script",
+            "Web application"
+        ],
+        "topic": [
+            "Machine learning",
+            "Gene expression",
+            "Disease genes and proteins"
+        ],
+        "operatingSystem": [
+            "Windows",
+            "Mac",
+            "Linux"
+        ],
+        "language": [
+            "R"
+        ],
+        "license": "MIT",
+        "cost": "Free of charge",
+        "accessibility": "Open access",
+        "downloadUrl": "https:\/\/github.com\/labsyspharm\/DRIAD",
+        "downloadType": [
+            "Container file"
+        ],
+        "downloadNote": null,
+        "downloadVersion": "ncomms",
+        "documentationUrl": "https:\/\/github.com\/labsyspharm\/DRIAD",
+        "documentationType": [
+            "General",
+            "Installation instructions",
+            "User manual"
+        ],
+        "documentationNote": null,
+        "linkUrl": "https:\/\/github.com\/labsyspharm\/DRIADrc",
+        "linkType": "Repository",
+        "linkNote": "Resources for Drug Repurposing In Alzheimer's Disease (DRIAD) work. DRIADrc: full reproducibility of manuscript figures is a companion to Drug Repurposing In Alzheimer's Disease (DRIAD).",
+        "portalDisplay": true
+    }
+]
