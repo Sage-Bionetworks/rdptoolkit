@@ -1,4 +1,4 @@
-# resource-discovery-portal-tools
+# Research Discovery Portal (RDP) toolkit
 Tools to interact with the Resource Discovery Portal (RDP)
 
 ## Usage
