@@ -10,8 +10,14 @@ conda create -y --name rdp-tools python=3.9.7
 conda activate rdp-tools
 ```
 
-Install Python dependencies.
+Install this Python package.
 
 ```console
-pip install -r requirements.txt
+pip install -e .
+```
+
+Push CCKP tools in JSON format to Elasticsearch.
+
+```console
+rdptoolkit push cckp-tools --tools_filepath data/cckp-tools-sample.json
 ```
