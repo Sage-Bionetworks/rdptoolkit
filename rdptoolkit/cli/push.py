@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import click
 
-# from rdptoolkit import upload
+from rdptoolkit.pusher import Pusher
 
 
 @click.group(name='push', no_args_is_help=True)
@@ -14,7 +14,9 @@ def cli():
               type=click.Path(exists=True), required=True)
 def cckp_tools(tools_filepath):
     """Pushes the CCKP tools to ES."""
-    print('Hello World')
+    pusher = Pusher()
+    pusher.read_tools(tools_filepath)
+    pusher.push_tools()
 
 
 if __name__ == '__main__':
