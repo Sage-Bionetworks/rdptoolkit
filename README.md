@@ -10,6 +10,14 @@ conda create -y --name rdptoolkit python=3.9.7
 conda activate rdptoolkit
 ```
 
+Create the configuration file and export its parameters to environment
+variables.
+
+```console
+cp .env.example .env
+export $(grep -v '^#' .env | xargs)
+```
+
 Install this Python package.
 
 ```console
