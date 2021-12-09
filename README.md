@@ -29,3 +29,8 @@ Push CCKP tools in JSON format to Elasticsearch.
 ```console
 rdptoolkit push cckp-tools --tools_filepath data/cckp-tools-sample.json
 ```
+
+## Indices pushed
+
+- `csbc-pson-computational-tools` (13 tools)
+- `csbc-pson-computational-tools-20211209` (205 tools)
