@@ -23,6 +23,15 @@ class Pusher:
             tools = json.load(f)
         self.tools = tools
 
+    def add_rdp_properties(self):
+      for tool in self.tools:
+        tool["@type"] = "ComputationalTool"
+        tool["resourceTypeName"] = "Tool"
+        tool["applicationCategory"] = tool["toolType"]
+        tool.pop("toolType")
+        # print(tool["applicationCategory"])
+      print(f"{json.dumps(self.tools)}")
+
     def generate_tools_data(self, es_index):
         for tool in self.tools:
             yield {

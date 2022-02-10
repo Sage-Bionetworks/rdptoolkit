@@ -16,6 +16,7 @@ def cckp_tools(tools_filepath):
     """Pushes the CCKP tools to ES."""
     pusher = Pusher()
     pusher.read_tools(tools_filepath)
+    pusher.add_rdp_properties()
     pusher.push_tools()
 
 
