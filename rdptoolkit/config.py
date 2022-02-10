@@ -50,7 +50,7 @@ class Config(AbstractConfig):
     @property
     def elasticsearch_indices(self):
         return {
-            'csbc_pson_computational_tools':'csbc-pson-computational-tools-20211209'
+            'csbc_pson_computational_tools':'csbc-pson-computational-tools-20220109-2'
         }
 
 
