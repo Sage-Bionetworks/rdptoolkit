@@ -43,7 +43,8 @@ setuptools.setup(
     install_requires=[
         'click==8.0.3',
         'elasticsearch==7.15.2',
-        'elasticsearch-dsl==7.4.0'
+        'elasticsearch-dsl==7.4.0',
+        'synapseclient==2.5.1'
     ],
 
     # metadata to display on PyPI
