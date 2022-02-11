@@ -24,10 +24,16 @@ Install this Python package.
 pip install -e .
 ```
 
-Push CCKP tools in JSON format to Elasticsearch.
+Push CCKP tools in JSON format to Elasticsearch:
 
 ```console
 rdptoolkit push cckp-tools --tools_filepath data/cckp-tools-sample.json
+```
+
+Push NLP Sandbox tools to Elasticsearch:
+
+```console
+rdptoolkit push nlpsandbox-tools
 ```
 
 ## Indices pushed
