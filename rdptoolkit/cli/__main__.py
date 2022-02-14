@@ -2,6 +2,7 @@
 import click
 
 from .. import __version__
+from . import pull
 from . import push
 
 @click.group()
@@ -10,5 +11,6 @@ def cli():
     """Resource Discovery Portal toolkit"""
 
 def main():
+    cli.add_command(pull.cli)
     cli.add_command(push.cli)
     cli()

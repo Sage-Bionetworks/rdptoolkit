@@ -10,6 +10,7 @@ elasticsearch-dsl = "==7.4.0"
 synapseclient = "==2.5.1"
 
 [dev-packages]
+black = "==22.1.0"
 
 [requires]
 python_version = "3.9"
