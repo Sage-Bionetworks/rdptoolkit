@@ -56,42 +56,48 @@ class Puller:
                 "resourceTypeName": "Tool",
                 "applicationCategory": ["Docker image"],
                 # Other properties
-                "toolId": None,
+                "toolId": row["submitter_id"],
                 "toolName": row["tool_name"],
                 "description": row["tool_description"],
-                "homepage": None,
+                "homepage": row["tool_url"],
                 "version": row["tool_version"],
                 "grantId": None,
                 "grantName": None,
                 "grantNumber": None,
                 "consortium": ["CD2H"],
                 "publicationTitle": None,
-                "operation": None,
+                "operation": "http://edamontology.org/operation_0226",
                 "inputData": ["Clinical record"],
                 "outputData": ["Annotations"],
                 "inputFormat": ["Textual format"],
                 "outputFormat": ["JSON"],
                 "functionNote": None,
-                "cmd": None,
+                "cmd": "docker compose up",
                 "topic": ["NLP", "PHI annotation"],
                 "operatingSystem": ["Windows", "Mac", "Linux"],
                 "language": [],
                 "license": row["tool_license"],
                 "cost": "Free of charge",
                 "accessibility": "Open access",  # depends on the license
-                "downloadUrl": "https:\/\/nlpsandbox.io",
+                "downloadUrl": "https://nlpsandbox.io",
                 "downloadType": ["Docker image"],
                 "downloadNote": None,
-                "downloadVersion": None,
-                "documentationUrl": None,
-                "documentationType": ["NA"],
+                "downloadVersion": row["tool_version"],
+                "documentationUrl": "https://nlpsandbox.io",
+                "documentationType": [
+                    "Installation instructions",
+                    "Quick start guide",
+                    "User manual",
+                ],
                 "documentationNote": None,
-                "linkUrl": None,
-                "linkType": None,
+                "linkUrl": row["tool_url"],
+                "linkType": "Repository",
                 "linkNote": None,
                 "portalDisplay": None,
             }
             self.tools.append(tool)
-        print(self.tools)
+
+        # print(self.tools)
+
         with open("data/computational-tools/nlpsandbox-date-annotator.json", "w") as f:
             json.dump(self.tools, f, indent=2)

@@ -5,10 +5,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.1.2",
     "grantId": null,
     "grantName": null,
@@ -17,7 +17,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -31,7 +31,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -45,19 +45,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.1.2",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -67,10 +69,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -79,7 +81,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -93,7 +95,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -107,19 +109,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -129,10 +133,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427866,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -141,7 +145,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -155,7 +159,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -169,19 +173,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -191,10 +197,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427866,
     "toolName": "connor-date-annotator",
     "description": "Date annotator based on machine learning",
-    "homepage": null,
+    "homepage": "https://github.com/cascadianblue/connor-date-annotator",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -203,7 +209,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -217,7 +223,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -231,19 +237,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/cascadianblue/connor-date-annotator",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -253,10 +261,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -265,7 +273,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -279,7 +287,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -293,19 +301,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -315,10 +325,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -327,7 +337,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -341,7 +351,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -355,19 +365,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -377,10 +389,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -389,7 +401,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -403,7 +415,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -417,19 +429,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -439,10 +453,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "phi-annotator-example",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -451,7 +465,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -465,7 +479,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -479,19 +493,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -501,10 +517,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -513,7 +529,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -527,7 +543,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -541,19 +557,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -563,10 +581,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "cantata-annotator",
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/MCW-BMI/cantata-phi-annotator",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -575,7 +593,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -589,7 +607,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -603,19 +621,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/MCW-BMI/cantata-phi-annotator",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -625,10 +645,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "phi-annotator-spark-nlp-ner-deid-large",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -637,7 +657,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -651,7 +671,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -665,19 +685,21 @@
     "license": "none",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -687,10 +709,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "phi-annotator-spark-nlp-ner-deid-synthetic",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_synthetic_en_2.7.4_2.4_1613746244835, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -699,7 +721,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -713,7 +735,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -727,19 +749,21 @@
     "license": "none",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -749,10 +773,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3420935,
     "toolName": "cantata-annotator",
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/MCW-BMI/cantata-phi-annotator",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -761,7 +785,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -775,7 +799,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -789,19 +813,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/MCW-BMI/cantata-phi-annotator",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -811,10 +837,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427651,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -823,7 +849,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -837,7 +863,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -851,19 +877,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -873,10 +901,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "neuroner",
     "description": "A named-entity recognition program based on neural networks",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-neuroner",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -885,7 +913,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -899,7 +927,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -913,19 +941,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -935,10 +965,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3421134,
     "toolName": "date-annotator-example-java",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example-java",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -947,7 +977,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -961,7 +991,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -975,19 +1005,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example-java",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -997,10 +1029,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3410758,
     "toolName": "phi-annotator-huggingface-bert-large-ner",
     "description": "Hugging Face-based PHI annotator (dslim/bert-large-NER)",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-huggingface",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -1009,7 +1041,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -1023,7 +1055,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -1037,19 +1069,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -1059,10 +1093,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "date-annotator-example",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/date-annotator-example",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -1071,7 +1105,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -1085,7 +1119,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -1099,19 +1133,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/date-annotator-example",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -1121,10 +1157,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "neuroner",
     "description": "A named-entity recognition program based on neural networks",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-neuroner",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -1133,7 +1169,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -1147,7 +1183,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -1161,19 +1197,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -1183,10 +1221,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3427502,
     "toolName": "neuroner",
     "description": "A named-entity recognition program based on neural networks",
-    "homepage": null,
+    "homepage": "https://github.com/nlpsandbox/phi-annotator-neuroner",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -1195,7 +1233,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -1209,7 +1247,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -1223,19 +1261,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   },
@@ -1245,10 +1285,10 @@
     "applicationCategory": [
       "Docker image"
     ],
-    "toolId": null,
+    "toolId": 3410758,
     "toolName": "phi-annotator-bert-ner-i2b2",
     "description": "BERT-based PHI annotator (connorboyle/bert-ner-i2b2)",
-    "homepage": null,
+    "homepage": "https://github.com/cascadianblue/bert-phi-annotator",
     "version": "1.2.0",
     "grantId": null,
     "grantName": null,
@@ -1257,7 +1297,7 @@
       "CD2H"
     ],
     "publicationTitle": null,
-    "operation": null,
+    "operation": "http://edamontology.org/operation_0226",
     "inputData": [
       "Clinical record"
     ],
@@ -1271,7 +1311,7 @@
       "JSON"
     ],
     "functionNote": null,
-    "cmd": null,
+    "cmd": "docker compose up",
     "topic": [
       "NLP",
       "PHI annotation"
@@ -1285,19 +1325,21 @@
     "license": "apache-2.0",
     "cost": "Free of charge",
     "accessibility": "Open access",
-    "downloadUrl": "https:\\/\\/nlpsandbox.io",
+    "downloadUrl": "https://nlpsandbox.io",
     "downloadType": [
       "Docker image"
     ],
     "downloadNote": null,
-    "downloadVersion": null,
-    "documentationUrl": null,
+    "downloadVersion": "1.2.0",
+    "documentationUrl": "https://nlpsandbox.io",
     "documentationType": [
-      "NA"
+      "Installation instructions",
+      "Quick start guide",
+      "User manual"
     ],
     "documentationNote": null,
-    "linkUrl": null,
-    "linkType": null,
+    "linkUrl": "https://github.com/cascadianblue/bert-phi-annotator",
+    "linkType": "Repository",
     "linkNote": null,
     "portalDisplay": null
   }
