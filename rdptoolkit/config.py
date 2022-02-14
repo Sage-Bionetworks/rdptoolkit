@@ -5,7 +5,7 @@ defaultValues = {
     "ELASTICSEARCH_HOST": "",
     "ELASTICSEARCH_PORT": "9200",
     "ELASTICSEARCH_USERNAME": "elastic",
-    "ELASTICSEARCH_PASSWORD": "changeme"
+    "ELASTICSEARCH_PASSWORD": "changeme",
 }
 
 
@@ -33,24 +33,24 @@ class Config(AbstractConfig):
 
     @property
     def elasticsearch_host(self):
-        return self.get_property('ELASTICSEARCH_HOST')
+        return self.get_property("ELASTICSEARCH_HOST")
 
     @property
     def elasticsearch_port(self):
-        return self.get_property('ELASTICSEARCH_PORT')
+        return self.get_property("ELASTICSEARCH_PORT")
 
     @property
     def elasticsearch_username(self):
-        return self.get_property('ELASTICSEARCH_USERNAME')
+        return self.get_property("ELASTICSEARCH_USERNAME")
 
     @property
     def elasticsearch_password(self):
-        return self.get_property('ELASTICSEARCH_PASSWORD')
+        return self.get_property("ELASTICSEARCH_PASSWORD")
 
     @property
     def elasticsearch_indices(self):
         return {
-            'csbc_pson_computational_tools':'csbc-pson-computational-tools-20220109-2'
+            "csbc_pson_computational_tools": "csbc-pson-computational-tools-20220109-2"
         }
 
 

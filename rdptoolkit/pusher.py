@@ -13,9 +13,8 @@ class Pusher:
         self.client = Elasticsearch(
             [config.elasticsearch_host],
             port=config.elasticsearch_port,
-            http_auth=(
-                config.elasticsearch_username,
-                config.elasticsearch_password))
+            http_auth=(config.elasticsearch_username, config.elasticsearch_password),
+        )
         self.tools = []
 
     def read_tools(self, tools_path):
@@ -24,13 +23,13 @@ class Pusher:
         self.tools = tools
 
     def add_rdp_properties(self):
-      for tool in self.tools:
-        tool["@type"] = "ComputationalTool"
-        tool["resourceTypeName"] = "Tool"
-        tool["applicationCategory"] = tool["toolType"]
-        tool.pop("toolType")
-        # print(tool["applicationCategory"])
-      print(f"{json.dumps(self.tools)}")
+        for tool in self.tools:
+            tool["@type"] = "ComputationalTool"
+            tool["resourceTypeName"] = "Tool"
+            tool["applicationCategory"] = tool["toolType"]
+            tool.pop("toolType")
+            # print(tool["applicationCategory"])
+        print(f"{json.dumps(self.tools)}")
 
     def generate_tools_data(self, es_index):
         for tool in self.tools:

@@ -13,8 +13,8 @@ class Puller:
         self.tools = []
 
     def pull_from_nlpsandbox(self):
-        print(f"Pull from nlpsandbox")
-        syn = synapseclient.Synapse()
+        print(f"Pulling tools from nlpsandbox.io")
+        syn = synapseclient.Synapse(silent=True)
         syn.login()
         main_leaderboard_table_id = "syn23747126"
         evaluation_queue_ids = {
@@ -26,35 +26,72 @@ class Puller:
         }
 
         query_template = (
-            'select id as "Submission Id", createdOn as "CreatedOn", '
-            "submitterid as Submitter, tool__api_version as "
-            '"NLP Sandbox Version",  location_F1_token_strict as '
-            '"i2b2 Score", MCW_location_F1_token_strict as '
-            '"MCW score", Mayo_location_F1_token_strict as '
-            '"Mayo score", tool__name as "Tool Name",  tool__version as '
-            '"Tool Version", tool__url as "Tool URL", tool__description '
-            'as "Tool Description", tool__license as "License", '
-            'dockerrepositoryname as "Image", dockerdigest as '
-            '"Image Digest", dataset_name as "i2b2 dataset", dataset_version '
-            'as "i2b2 dataset version", MCW_dataset_name as '
-            '"MCW dataset name", MCW_dataset_version as '
-            '"MCW dataset version", Mayo_dataset_name as '
-            '"Mayo dataset name", Mayo_dataset_version as "Mayo dataset '
-            'version" from  syn23747126 where evaluationid =%s and '
+            'select id as "sub_id", createdOn as "created_on", '
+            "submitterid as submitter_id, tool__api_version as "
+            '"tool_version",  location_F1_token_strict as '
+            '"i2b2_score", MCW_location_F1_token_strict as '
+            '"mcw_score", Mayo_location_F1_token_strict as '
+            '"mayo_score", tool__name as "tool_name",  tool__version as '
+            '"tool_version", tool__url as "tool_url", tool__description '
+            'as "tool_description", tool__license as "tool_license", '
+            'dockerrepositoryname as "image", dockerdigest as '
+            '"image_digest", dataset_name as "i2b2_dataset_name", dataset_version '
+            'as "i2b2_dataset_version", MCW_dataset_name as '
+            '"mcw_dataset_name", MCW_dataset_version as '
+            '"mcw_dataset_version", Mayo_dataset_name as '
+            '"mayo_dataset_name", Mayo_dataset_version as '
+            '"mayo_dataset_version" from syn23747126 where evaluationid =%s and '
             "status = 'ACCEPTED' and MCW_submission_status = "
             "'SCORED' and (Mayo_submission_status = 'SCORED' or "
             "Mayo_submission_status is null)"
         )
 
         query = query_template % (evaluation_queue_ids["date_annotator"])
-
         results = syn.tableQuery(query)
-        for row in results:
-            print(row)
 
-        # print(f"{evaluation_queue_ids['date_annotator']}")
-        # print(f"{results}")
-        # pusher = Pusher()
-        # pusher.read_tools(tools_filepath)
-        # pusher.add_rdp_properties()
-        # pusher.push_tools()
+        for _, row in results.asDataFrame().iterrows():
+            tool = {
+                # Required RDP properties
+                "@type": "ComputationalTool",
+                "resourceTypeName": "Tool",
+                "applicationCategory": ["Docker image"],
+                # Other properties
+                "toolId": None,
+                "toolName": row["tool_name"],
+                "description": row["tool_description"],
+                "homepage": None,
+                "version": row["tool_version"],
+                "grantId": None,
+                "grantName": None,
+                "grantNumber": None,
+                "consortium": ["CD2H"],
+                "publicationTitle": None,
+                "operation": None,
+                "inputData": ["Clinical record"],
+                "outputData": ["Annotations"],
+                "inputFormat": ["Textual format"],
+                "outputFormat": ["JSON"],
+                "functionNote": None,
+                "cmd": None,
+                "topic": ["NLP", "PHI annotation"],
+                "operatingSystem": ["Windows", "Mac", "Linux"],
+                "language": [],
+                "license": row["tool_license"],
+                "cost": "Free of charge",
+                "accessibility": "Open access",  # depends on the license
+                "downloadUrl": "https:\/\/nlpsandbox.io",
+                "downloadType": ["Docker image"],
+                "downloadNote": None,
+                "downloadVersion": None,
+                "documentationUrl": None,
+                "documentationType": ["NA"],
+                "documentationNote": None,
+                "linkUrl": None,
+                "linkType": None,
+                "linkNote": None,
+                "portalDisplay": None,
+            }
+            self.tools.append(tool)
+        print(self.tools)
+        with open("data/computational-tools/nlpsandbox-date-annotator.json", "w") as f:
+            json.dump(self.tools, f, indent=2)

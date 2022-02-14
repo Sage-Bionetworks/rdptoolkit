@@ -4,7 +4,7 @@ import click
 from rdptoolkit.puller import Puller
 
 
-@click.group(name='pull', no_args_is_help=True)
+@click.group(name="pull", no_args_is_help=True)
 def cli():
     """Pull related commands"""
 
@@ -16,5 +16,5 @@ def nlpsandbox_tools():
     puller.pull_from_nlpsandbox()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     cli()
