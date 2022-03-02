@@ -40,7 +40,7 @@ class Puller:
         print("Pulling tools from nlpsandbox.io")
         syn = synapseclient.Synapse(silent=True)
         syn.login()
-        main_leaderboard_table_id = "syn23747126"
+        # main_leaderboard_table_id = "syn23747126"
         evaluation_queue_ids = {
             "date_annotator": "9614652",
             "person_name_annotator": "9614657",
@@ -70,71 +70,73 @@ class Puller:
             "Mayo_submission_status is null)"
         )
 
-        query = query_template % (evaluation_queue_ids["date_annotator"])
-        results = syn.tableQuery(query)
+        for tool_type in evaluation_queue_ids:
+            print(f"Fetching NLP Sandbox tool data for {tool_type}")
+            sub_queue_id = evaluation_queue_ids[tool_type]
 
-        for _, tool in results.asDataFrame().iterrows():
-            new_tool = {
-                "resourceTypeName": "Tool",
-                "@context": "https://schema.org",
-                "@type": "ComputationalTool",
-                "@id": f"https://nlpsandbox.io/#{tool['sub_id']}",
-                "description": tool["tool_description"],
-                "name": tool["tool_name"],
-                "url": tool["tool_url"],
-                "applicationCategory": ["Docker image"],
-                "license": tool["tool_license"],
-                "softwareVersion": tool["tool_version"],
-                "downloadUrl": "https://nlpsandbox.io",
-                "operatingSystem": ["Windows", "Mac", "Linux"],
-                "programmingLanguage": [],
-                # # Required RDP properties
-                # "@type": "ComputationalTool",
-                # "resourceTypeName": "Tool",
-                # "applicationCategory": ["Docker image"],
-                # # Other properties
-                # "toolId": row["submitter_id"],
-                # "toolName": row["tool_name"],
-                # "description": row["tool_description"],
-                # "homepage": row["tool_url"],
-                # "version": row["tool_version"],
-                # "grantId": None,
-                # "grantName": None,
-                # "grantNumber": None,
-                # "consortium": ["CD2H"],
-                # "publicationTitle": None,
-                # "operation": "http://edamontology.org/operation_0226",
-                # "inputData": ["Clinical record"],
-                # "outputData": ["Annotations"],
-                # "inputFormat": ["Textual format"],
-                # "outputFormat": ["JSON"],
-                # "functionNote": None,
-                # "cmd": "docker compose up",
-                # "topic": ["NLP", "PHI annotation"],
-                # "operatingSystem": ["Windows", "Mac", "Linux"],
-                # "language": [],
-                # "license": row["tool_license"],
-                # "cost": "Free of charge",
-                # "accessibility": "Open access",  # depends on the license
-                # "downloadUrl": "https://nlpsandbox.io",
-                # "downloadType": ["Docker image"],
-                # "downloadNote": None,
-                # "downloadVersion": row["tool_version"],
-                # "documentationUrl": "https://nlpsandbox.io",
-                # "documentationType": [
-                #     "Installation instructions",
-                #     "Quick start guide",
-                #     "User manual",
-                # ],
-                # "documentationNote": None,
-                # "linkUrl": row["tool_url"],
-                # "linkType": "Repository",
-                # "linkNote": None,
-                # "portalDisplay": None,
-            }
-            self.tools.append(new_tool)
+            query = query_template % (sub_queue_id)
+            results = syn.tableQuery(query)
 
-        # print(self.tools)
+            for _, tool in results.asDataFrame().iterrows():
+                new_tool = {
+                    "resourceTypeName": "Tool",
+                    "@context": "https://schema.org",
+                    "@type": "ComputationalTool",
+                    "@id": f"https://nlpsandbox.io/#{tool['sub_id']}",
+                    "description": tool["tool_description"],
+                    "name": tool["tool_name"],
+                    "url": tool["tool_url"],
+                    "applicationCategory": ["Docker image"],
+                    "license": tool["tool_license"],
+                    "softwareVersion": tool["tool_version"],
+                    "downloadUrl": "https://nlpsandbox.io",
+                    "operatingSystem": ["Windows", "Mac", "Linux"],
+                    "programmingLanguage": [],
+                    # # Required RDP properties
+                    # "@type": "ComputationalTool",
+                    # "resourceTypeName": "Tool",
+                    # "applicationCategory": ["Docker image"],
+                    # # Other properties
+                    # "toolId": row["submitter_id"],
+                    # "toolName": row["tool_name"],
+                    # "description": row["tool_description"],
+                    # "homepage": row["tool_url"],
+                    # "version": row["tool_version"],
+                    # "grantId": None,
+                    # "grantName": None,
+                    # "grantNumber": None,
+                    # "consortium": ["CD2H"],
+                    # "publicationTitle": None,
+                    # "operation": "http://edamontology.org/operation_0226",
+                    # "inputData": ["Clinical record"],
+                    # "outputData": ["Annotations"],
+                    # "inputFormat": ["Textual format"],
+                    # "outputFormat": ["JSON"],
+                    # "functionNote": None,
+                    # "cmd": "docker compose up",
+                    # "topic": ["NLP", "PHI annotation"],
+                    # "operatingSystem": ["Windows", "Mac", "Linux"],
+                    # "language": [],
+                    # "license": row["tool_license"],
+                    # "cost": "Free of charge",
+                    # "accessibility": "Open access",  # depends on the license
+                    # "downloadUrl": "https://nlpsandbox.io",
+                    # "downloadType": ["Docker image"],
+                    # "downloadNote": None,
+                    # "downloadVersion": row["tool_version"],
+                    # "documentationUrl": "https://nlpsandbox.io",
+                    # "documentationType": [
+                    #     "Installation instructions",
+                    #     "Quick start guide",
+                    #     "User manual",
+                    # ],
+                    # "documentationNote": None,
+                    # "linkUrl": row["tool_url"],
+                    # "linkType": "Repository",
+                    # "linkNote": None,
+                    # "portalDisplay": None,
+                }
+                self.tools.append(new_tool)
 
         with open("data/computational-tools/nlpsandbox-date-annotator.json", "w") as f:
             json.dump(self.tools, f, indent=2)
