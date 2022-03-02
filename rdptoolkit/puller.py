@@ -12,8 +12,32 @@ class Puller:
     def __init__(self):
         self.tools = []
 
+    def pull_from_cckp(self):
+        print("Pulling tools from local CCKP data")
+        with open("data/cckp-tools-sample.json") as f:
+            tools = json.load(f)
+        for tool in tools:
+            new_tool = {
+                "resourceTypeName": "Tool",
+                "@context": "https://schema.org",
+                "@type": "ComputationalTool",
+                # "@id": f"https://cancercomplexity.synapse.org/#{tool.toolId}",
+                "description": tool["description"],
+                "name": tool["toolName"],
+                "url": tool["homepage"],
+                "applicationCategory": tool["toolType"],
+                "license": tool["license"],
+                "softwareVersion": tool["version"],
+                "downloadUrl": tool["downloadUrl"],
+                "operatingSystem": tool["operatingSystem"],
+                "programmingLanguage": tool["language"],
+            }
+            self.tools.append(new_tool)
+        with open("data/computational-tools/cckp-tools.json", "w") as f:
+            json.dump(self.tools, f, indent=2)
+
     def pull_from_nlpsandbox(self):
-        print(f"Pulling tools from nlpsandbox.io")
+        print("Pulling tools from nlpsandbox.io")
         syn = synapseclient.Synapse(silent=True)
         syn.login()
         main_leaderboard_table_id = "syn23747126"
