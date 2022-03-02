@@ -47,11 +47,11 @@ class Config(AbstractConfig):
     def elasticsearch_password(self):
         return self.get_property("ELASTICSEARCH_PASSWORD")
 
-    @property
-    def elasticsearch_indices(self):
-        return {
-            "csbc_pson_computational_tools": "csbc-pson-computational-tools-20220109-2"
-        }
+    # @property
+    # def elasticsearch_indices(self):
+    #     return {
+    #         "csbc_pson_computational_tools": "csbc-pson-computational-tools-20220109-2"
+    #     }
 
 
 config = Config()

@@ -18,18 +18,10 @@ class Pusher:
         self.tools = []
 
     def read_tools(self, tools_path):
+        print(f"Reading {tools_path}")
         with open(tools_path) as f:
             tools = json.load(f)
         self.tools = tools
-
-    def add_rdp_properties(self):
-        for tool in self.tools:
-            tool["@type"] = "ComputationalTool"
-            tool["resourceTypeName"] = "Tool"
-            tool["applicationCategory"] = tool["toolType"]
-            tool.pop("toolType")
-            # print(tool["applicationCategory"])
-        print(f"{json.dumps(self.tools)}")
 
     def generate_tools_data(self, es_index):
         for tool in self.tools:
@@ -38,9 +30,9 @@ class Pusher:
                 "tool": tool,
             }
 
-    def push_tools(self):
+    def push_tools(self, es_index):
         """
         Upload the documents.
         """
-        es_index = config.elasticsearch_indices["csbc_pson_computational_tools"]
+        print(f"Pushing tools to ES index {es_index}")
         helpers.bulk(self.client, self.generate_tools_data(es_index))
