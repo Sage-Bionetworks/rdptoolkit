@@ -92,16 +92,6 @@ class Puller:
                     "downloadUrl": "https://nlpsandbox.io",
                     "operatingSystem": ["Windows", "Mac", "Linux"],
                     "programmingLanguage": [],
-                    # # Required RDP properties
-                    # "@type": "ComputationalTool",
-                    # "resourceTypeName": "Tool",
-                    # "applicationCategory": ["Docker image"],
-                    # # Other properties
-                    # "toolId": row["submitter_id"],
-                    # "toolName": row["tool_name"],
-                    # "description": row["tool_description"],
-                    # "homepage": row["tool_url"],
-                    # "version": row["tool_version"],
                     # "grantId": None,
                     # "grantName": None,
                     # "grantNumber": None,
@@ -138,5 +128,5 @@ class Puller:
                 }
                 self.tools.append(new_tool)
 
-        with open("data/computational-tools/nlpsandbox-date-annotator.json", "w") as f:
+        with open("data/computational-tools/nlpsandbox-tools.json", "w") as f:
             json.dump(self.tools, f, indent=2)
