@@ -8,8 +8,10 @@ click = "==8.0.3"
 elasticsearch = "==7.15.2"
 elasticsearch-dsl = "==7.4.0"
 synapseclient = "==2.5.1"
+pandas = "*"
 
 [dev-packages]
+black = "==22.1.0"
 
 [requires]
 python_version = "3.9"

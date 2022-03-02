@@ -1,0 +1,303 @@
+[
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "MySQL and python libraries (pymysql, pandas) were used to extract and prepare the data for modeling. The code for data preparation is available in the github (https://github.com/tatonetti-lab/complementcovid) as a Jupyter Notebook titled Data Setup.",
+    "name": "complementcovid",
+    "url": "https://github.com/tatonetti-lab/complementcovid",
+    "applicationCategory": [
+      "Script",
+      "Notebook"
+    ],
+    "license": "Not licensed",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/tatonetti-lab/complementcovid",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Survival analysis was originally developed and applied heavily by the actuarial and medical community.",
+    "name": "lifelines",
+    "url": "https://github.com/CamDavidsonPilon/lifelines",
+    "applicationCategory": [
+      "Script",
+      "Notebook"
+    ],
+    "license": "MIT",
+    "softwareVersion": "0.24.4",
+    "downloadUrl": "https://github.com/CamDavidsonPilon/lifelines",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "This project analyzes an OMOP database to measure EHR prevalence and co-occurrence frequencies of all observed conditions, drugs, procedures and patient demographics",
+    "name": "ehr_prevalence",
+    "url": "https://github.com/CaseyTa/ehr_prevalence",
+    "applicationCategory": [
+      "Script",
+      "Web application"
+    ],
+    "license": "Not licensed",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/CaseyTa/ehr_prevalence",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python",
+      "Shell"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "DDOT consists of a Python package for assembly and analysis of data-driven hierarchies and a web application (http://hiview.ucsd.edu) for visualizing them.",
+    "name": "Data Driven Ontology Toolkit",
+    "url": "https://github.com/michaelkyu/ddot",
+    "applicationCategory": [
+      "Desktop application",
+      "Notebook",
+      "Web application"
+    ],
+    "license": "MIT",
+    "softwareVersion": "v1.0rc3",
+    "downloadUrl": "https://github.com/michaelkyu/ddot",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "C++",
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Toolkit for constructing, analyzing, and visualizing data-driven ontologies",
+    "name": "Data-Driven Ontology Toolkit (DDOT)",
+    "url": "https://github.com/idekerlab/ddot",
+    "applicationCategory": [
+      "Script",
+      "Web application"
+    ],
+    "license": "MIT",
+    "softwareVersion": "v1.0.1\u00a0",
+    "downloadUrl": "https://github.com/idekerlab/ddot",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Mathematica code and data files for article: Comparing the efficacy of cancer therapies between subgroups in basket trials",
+    "name": "palmer-plana-2020",
+    "url": "https://github.com/labsyspharm/palmer-plana-2020",
+    "applicationCategory": [
+      "Script"
+    ],
+    "license": "MIT License",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/labsyspharm/palmer-plana-2020",
+    "operatingSystem": [
+      "Windows",
+      "Linux",
+      "Mac"
+    ],
+    "programmingLanguage": [
+      "Mathematica"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Detecting heterogeneity in GWAS cohorts.CLiP is a statistical tool to detect genotypic heterogeneity in single case/control GWAS cohorts. Heterogeneity among cases may arise due to a phenotype comprising multiple latent sub-phenotypes. CLiP calculates correlations between associated SNPs and compares them to expected values from summary statistics.",
+    "name": "CLiP (Correlated Liability Predictors)",
+    "url": "https://github.com/jyuan1322/CLiP",
+    "applicationCategory": [
+      "Script"
+    ],
+    "license": "GPL-3.0",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/jyuan1322/CLiP",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "The manual drug name mappings step was performed using OHDSI Usagi",
+    "name": "OHDSI Usagi",
+    "url": "https://github.com/OHDSI/usagi",
+    "applicationCategory": [
+      "Script"
+    ],
+    "license": "Apache-2.0",
+    "softwareVersion": "v1.4.3",
+    "downloadUrl": "https://github.com/OHDSI/usagi",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Java"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "This publicly available resource, along with the source code, will accelerate drug safety research by reducing the amount of time spent performing data management on the source FAERS reports, improving the quality of the underlying data, and enabling standardized analyses using common vocabularies.",
+    "name": "FDA FAERS data",
+    "url": "https://github.com/ltscomputingllc/faersdbstats",
+    "applicationCategory": [
+      "Script"
+    ],
+    "license": "Apache-2.0",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/ltscomputingllc/faersdbstats",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Shell",
+      "SQL"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "A database of frequencies of clinical concepts observed at Columbia University Medical Center.",
+    "name": "cohd",
+    "url": "https://github.com/CaseyTa/cohd",
+    "applicationCategory": [
+      "Script",
+      "Notebook",
+      "Web application"
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "softwareVersion": null,
+    "downloadUrl": "https://github.com/CaseyTa/cohd",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Adeft (Acromine based Disambiguation of Entities From Text context) is a utility for building models to disambiguate acronyms and other abbreviations of biological terms in the scientific literature.",
+    "name": "Adeft",
+    "url": "https://github.com/indralab/adeft",
+    "applicationCategory": [
+      "Script",
+      "Notebook"
+    ],
+    "license": "BSD-2-Clause",
+    "softwareVersion": "v0.11.0",
+    "downloadUrl": "https://github.com/indralab/adeft",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "Python",
+      "TeX"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "Dose response measurements that are corrected for inherent differences in cell cycle division times.",
+    "name": "GR metrics",
+    "url": "http://www.grcalculator.org",
+    "applicationCategory": [
+      "Library"
+    ],
+    "license": "GPL-3.0",
+    "softwareVersion": "1.18.0",
+    "downloadUrl": "https://bioconductor.org/packages/release/bioc/html/GRmetrics.html",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "R",
+      "Python"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": "https://schema.org",
+    "@type": "ComputationalTool",
+    "description": "DRIAD (Drug Repurposing in Alzheimer's Disease), a machine learning framework that quantifies potential associations between the pathology of AD severity (the Braak stage) and molecular mechanisms as encoded in lists of gene names.",
+    "name": "DRIAD",
+    "url": "https://labsyspharm.shinyapps.io/DRIAD/",
+    "applicationCategory": [
+      "Script",
+      "Web application"
+    ],
+    "license": "MIT",
+    "softwareVersion": "ncomms",
+    "downloadUrl": "https://github.com/labsyspharm/DRIAD",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [
+      "R"
+    ]
+  }
+]
