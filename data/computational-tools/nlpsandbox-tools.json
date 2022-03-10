@@ -1,7 +1,11 @@
 [
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712271",
     "description": "Example implementation of the NLP Sandbox Date Annotator",
@@ -22,7 +26,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712514",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -43,7 +51,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712538",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -64,7 +76,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712572",
     "description": "Date annotator based on machine learning",
@@ -85,7 +101,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712578",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -106,7 +126,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712699",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -127,7 +151,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712702",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -148,7 +176,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712725",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -169,7 +201,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712738",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -190,7 +226,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712863",
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
@@ -211,7 +251,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713393",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
@@ -232,7 +276,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713402",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_synthetic_en_2.7.4_2.4_1613746244835, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
@@ -253,7 +301,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9714119",
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
@@ -274,7 +326,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9714182",
     "description": "Example implementation of the NLP Sandbox Date Annotator",
@@ -295,7 +351,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715255",
     "description": "A named-entity recognition program based on neural networks",
@@ -316,7 +376,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9716963",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -337,7 +401,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717151",
     "description": "Hugging Face-based PHI annotator (dslim/bert-large-NER)",
@@ -358,7 +426,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717303",
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
@@ -379,7 +451,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717322",
     "description": "A named-entity recognition program based on neural networks",
@@ -400,7 +476,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717330",
     "description": "A named-entity recognition program based on neural networks",
@@ -421,7 +501,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717623",
     "description": "BERT-based PHI annotator (connorboyle/bert-ner-i2b2)",
@@ -442,7 +526,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719026",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -463,7 +551,36 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719493",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712263",
     "description": "Example implementation of the NLP Sandbox Person Name Annotator",
@@ -484,7 +601,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712574",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -505,7 +626,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712594",
     "description": "ML based annotator by Connor Boyle",
@@ -526,7 +651,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712741",
     "description": "Connor Boyle's PHI annotator based on a linear SVM.",
@@ -547,7 +676,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712748",
     "description": "Example implementation of the NLP Sandbox Person Name Annotator API",
@@ -568,7 +701,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712761",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -589,7 +726,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712880",
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
@@ -610,7 +751,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715279",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
@@ -631,7 +776,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717022",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
@@ -652,7 +801,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717128",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
@@ -673,7 +826,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717245",
     "description": "Example implementation of the NLP Sandbox Person Name Annotator API",
@@ -694,7 +851,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717331",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -715,7 +876,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717333",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
@@ -736,7 +901,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717335",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER-uncased)",
@@ -757,7 +926,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719091",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -778,7 +951,36 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719366",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712264",
     "description": "Example implementation of the NLP Sandbox Physical Address Annotator",
@@ -799,7 +1001,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712782",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -820,7 +1026,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712913",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -841,7 +1051,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715275",
     "description": "A named-entity recognition program based on neural networks",
@@ -862,7 +1076,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715282",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
@@ -883,7 +1101,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717019",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
@@ -904,7 +1126,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717044",
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER-uncased)",
@@ -925,7 +1151,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719097",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -946,7 +1176,36 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719471",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712689",
     "description": "Example implementation of the NLP Sandbox Contact Annotator API",
@@ -967,7 +1226,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712752",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -988,7 +1251,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713091",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -1009,7 +1276,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715273",
     "description": "A named-entity recognition program based on neural networks",
@@ -1030,7 +1301,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715294",
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
@@ -1051,7 +1326,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715346",
     "description": "Connor Boyle's PHI annotator based on a linear SVM.",
@@ -1072,7 +1351,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719142",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -1093,7 +1376,36 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719392",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712665",
     "description": "Example implementation of the NLP Sandbox ID Annotator API",
@@ -1114,7 +1426,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712753",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -1135,7 +1451,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713096",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
@@ -1156,7 +1476,11 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715289",
     "description": "A named-entity recognition program based on neural networks",
@@ -1177,9 +1501,63 @@
   },
   {
     "resourceTypeName": "Tool",
-    "@context": "https://schema.org",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719100",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719394",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719492",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
