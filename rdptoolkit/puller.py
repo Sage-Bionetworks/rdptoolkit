@@ -19,7 +19,11 @@ class Puller:
         for tool in tools:
             new_tool = {
                 "resourceTypeName": "Tool",
-                "@context": "https://schema.org",
+                "@context": {
+                    "dct": "http://purl.org/dc/terms/",
+                    "schema": "http://schema.org",
+                    "bioschemas": "https://discovery.biothings.io/view/bioschemas",
+                },
                 "@type": "ComputationalTool",
                 # "@id": f"https://cancercomplexity.synapse.org/#{tool.toolId}",
                 "description": tool["description"],
@@ -80,7 +84,11 @@ class Puller:
             for _, tool in results.asDataFrame().iterrows():
                 new_tool = {
                     "resourceTypeName": "Tool",
-                    "@context": "https://schema.org",
+                    "@context": {
+                        "dct": "http://purl.org/dc/terms/",
+                        "schema": "http://schema.org",
+                        "bioschemas": "https://discovery.biothings.io/view/bioschemas",
+                    },
                     "@type": "ComputationalTool",
                     "@id": f"https://nlpsandbox.io/#{tool['sub_id']}",
                     "description": tool["tool_description"],
