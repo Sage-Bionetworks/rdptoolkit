@@ -25,7 +25,7 @@ class Puller:
                     "bioschemas": "https://discovery.biothings.io/view/bioschemas",
                 },
                 "@type": "ComputationalTool",
-                # "@id": f"https://cancercomplexity.synapse.org/#{tool.toolId}",
+                # "@id": f"https://cancercomplexity.synapse.org/#{tool['toolId']}",
                 "description": tool["description"],
                 "name": tool["toolName"],
                 "url": tool["homepage"],
@@ -35,7 +35,30 @@ class Puller:
                 "downloadUrl": tool["downloadUrl"],
                 "operatingSystem": tool["operatingSystem"],
                 "programmingLanguage": tool["language"],
+                "softwareVersion": tool["version"],
+                "softwareHelp": tool["documentationUrl"],
+                "keywords": tool["topic"],
+                # custom properties
+                "inputData": tool["inputData"],
+                "outputData": tool["outputData"],
+                "inputFormat": tool["inputFormat"],
+                "outputFormat": tool["outputFormat"],
             }
+
+            if tool["linkUrl"] is not None:
+                # TODO: Consider including website extension, yet what if
+                # github.microsoft.com, for instance.
+                res = [
+                    ele
+                    for ele in ["github", "gitlab", "bitbucket"]
+                    if (ele in tool["linkUrl"])
+                ]
+                if bool(res):
+                    new_tool["codeRepository"] = tool["linkUrl"]
+
+            if tool["cost"] == "Free of charge":
+                new_tool["isAccessibleForFree"] = True
+
             self.tools.append(new_tool)
         with open("data/computational-tools/cckp-tools.json", "w") as f:
             json.dump(self.tools, f, indent=2)
@@ -100,16 +123,25 @@ class Puller:
                     "downloadUrl": "https://nlpsandbox.io",
                     "operatingSystem": ["Windows", "Mac", "Linux"],
                     "programmingLanguage": [],
+                    "softwareVersion": tool["tool_version"],
+                    "codeRepository": tool["tool_url"],  # may not be a repo
+                    "isAccessibleForFree": True,
+                    "softwareHelp": "https://nlpsandbox.io",
+                    "keywords": [
+                        "NLP",
+                        "PHI annotation",
+                    ],  # PHI annotation is specific to the current tasks
+                    # custom properties
+                    "inputData": ["Clinical record"],
+                    "outputData": ["Annotations"],
+                    "inputFormat": ["Textual format"],
+                    "outputFormat": ["JSON"],
                     # "grantId": None,
                     # "grantName": None,
                     # "grantNumber": None,
                     # "consortium": ["CD2H"],
                     # "publicationTitle": None,
                     # "operation": "http://edamontology.org/operation_0226",
-                    # "inputData": ["Clinical record"],
-                    # "outputData": ["Annotations"],
-                    # "inputFormat": ["Textual format"],
-                    # "outputFormat": ["JSON"],
                     # "functionNote": None,
                     # "cmd": "docker compose up",
                     # "topic": ["NLP", "PHI annotation"],

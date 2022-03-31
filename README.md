@@ -48,10 +48,10 @@ Push CCKP tools to Elasticsearch:
 ```console
 rdptoolkit push tools \
   --tools_filepath data/computational-tools/cckp-tools.json \
-  --es_index cckp-computational-tools-20220301
+  --es_index cckp-computational-tools-20220401
 
 Reading data/computational-tools/cckp-tools.json
-Pushing tools to ES index cckp-computational-tools-20220301
+Pushing tools to ES index cckp-computational-tools-20220401
 ```
 
 Push NLP Sandbox tools to Elasticsearch.

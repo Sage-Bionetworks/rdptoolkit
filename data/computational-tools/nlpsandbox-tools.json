@@ -22,7 +22,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -47,7 +66,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -72,7 +110,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -97,7 +154,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/cascadianblue/connor-date-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -122,7 +198,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -147,7 +242,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -172,7 +286,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -197,7 +330,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -222,7 +374,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -247,7 +418,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/MCW-BMI/cantata-phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -272,7 +462,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -297,7 +506,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -322,7 +550,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/MCW-BMI/cantata-phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -347,7 +594,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -372,7 +638,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -397,7 +682,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example-java",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -422,7 +726,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -447,7 +770,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -472,7 +814,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -497,7 +858,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -522,7 +902,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/cascadianblue/bert-phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -547,7 +946,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -572,7 +990,378 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719600",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719606",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719638",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719734",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719945",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719957",
+    "description": "Example implementation of the NLP Sandbox Date Annotator API",
+    "name": "date-annotator-example",
+    "url": "https://github.com/nlpsandbox/date-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719977",
+    "description": "Example implementation of the NLP Sandbox Date Annotator API",
+    "name": "date-annotator-example",
+    "url": "https://github.com/nlpsandbox/date-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9720045",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -597,7 +1386,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/person-name-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -622,7 +1430,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -647,7 +1474,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/cascadianblue/person-name-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -672,7 +1518,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/cascadianblue/phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -697,7 +1562,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/person-name-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -722,7 +1606,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -747,7 +1650,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/MCW-BMI/cantata-phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -772,7 +1694,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -797,7 +1738,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -822,7 +1782,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -847,7 +1826,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/person-name-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -872,7 +1870,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -897,7 +1914,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -922,7 +1958,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -947,7 +2002,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -972,7 +2046,246 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719641",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719650",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719665",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719737",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719948",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -997,7 +2310,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/physical-address-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1022,7 +2354,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1047,7 +2398,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1072,7 +2442,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1097,7 +2486,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1122,7 +2530,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1147,7 +2574,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-huggingface",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1172,7 +2618,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1197,7 +2662,158 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719649",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719664",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719789",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1222,7 +2838,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/contact-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1247,7 +2882,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1272,7 +2926,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1297,7 +2970,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1322,7 +3014,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1347,7 +3058,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/cascadianblue/phi-annotator",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1372,7 +3102,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1397,7 +3146,158 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719646",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719661",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719733",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1422,7 +3322,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/id-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1447,7 +3366,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1472,7 +3410,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1497,7 +3454,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1522,7 +3498,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1547,7 +3542,26 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   },
   {
     "resourceTypeName": "Tool",
@@ -1572,6 +3586,113 @@
       "Mac",
       "Linux"
     ],
-    "programmingLanguage": []
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719663",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719735",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/phi-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
   }
 ]
