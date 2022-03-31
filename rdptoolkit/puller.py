@@ -36,6 +36,13 @@ class Puller:
                 "operatingSystem": tool["operatingSystem"],
                 "programmingLanguage": tool["language"],
                 "softwareVersion": tool["version"],
+                "softwareHelp": tool["documentationUrl"],
+                "keywords": tool["topic"],
+                # custom properties
+                "inputData": tool["inputData"],
+                "outputData": tool["outputData"],
+                "inputFormat": tool["inputFormat"],
+                "outputFormat": tool["outputFormat"],
             }
 
             if tool["linkUrl"] is not None:
@@ -118,17 +125,23 @@ class Puller:
                     "programmingLanguage": [],
                     "softwareVersion": tool["tool_version"],
                     "codeRepository": tool["tool_url"],  # may not be a repo
-                    "isAccessibleForFree": True
+                    "isAccessibleForFree": True,
+                    "softwareHelp": "https://nlpsandbox.io",
+                    "keywords": [
+                        "NLP",
+                        "PHI annotation",
+                    ],  # PHI annotation is specific to the current tasks
+                    # custom properties
+                    "inputData": ["Clinical record"],
+                    "outputData": ["Annotations"],
+                    "inputFormat": ["Textual format"],
+                    "outputFormat": ["JSON"],
                     # "grantId": None,
                     # "grantName": None,
                     # "grantNumber": None,
                     # "consortium": ["CD2H"],
                     # "publicationTitle": None,
                     # "operation": "http://edamontology.org/operation_0226",
-                    # "inputData": ["Clinical record"],
-                    # "outputData": ["Annotations"],
-                    # "inputFormat": ["Textual format"],
-                    # "outputFormat": ["JSON"],
                     # "functionNote": None,
                     # "cmd": "docker compose up",
                     # "topic": ["NLP", "PHI annotation"],

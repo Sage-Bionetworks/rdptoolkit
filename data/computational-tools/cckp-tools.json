@@ -25,6 +25,27 @@
     "programmingLanguage": [
       "Python"
     ],
+    "softwareHelp": null,
+    "keywords": [
+      "Bioinformatics",
+      "Infectious disease",
+      "Allergy, clinical immunology and immunotherapeutics"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Correlation matrices",
+      "Statistical results"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "CSV",
+      "JSON",
+      "xlsx"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -52,6 +73,25 @@
     ],
     "programmingLanguage": [
       "Python"
+    ],
+    "softwareHelp": "https://lifelines.readthedocs.io/en/latest/index.html",
+    "keywords": [
+      "Bioinformatics",
+      "Infectious disease",
+      "Allergy, clinical immunology and immunotherapeutics"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Statistical results",
+      "Plot"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Graph format"
     ],
     "isAccessibleForFree": true
   },
@@ -81,6 +121,26 @@
     "programmingLanguage": [
       "Python",
       "Shell"
+    ],
+    "softwareHelp": "https://github.com/CaseyTa/ehr_prevalence",
+    "keywords": [
+      "Medicine",
+      "Medical informatics",
+      "Data mining",
+      "Data architecture, analysis and design"
+    ],
+    "inputData": [
+      "Electronic health records"
+    ],
+    "outputData": [
+      "Statistical estimate score",
+      "Prevalence"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Textual format"
     ],
     "isAccessibleForFree": true
   },
@@ -112,6 +172,35 @@
       "C++",
       "Python"
     ],
+    "softwareHelp": "https://github.com/michaelkyu/ddot|https://ddot.readthedocs.io/en/latest/|https://github.com/michaelkyu/ddot/blob/master/examples/Tutorial.ipynb",
+    "keywords": [
+      "Omics",
+      "Gene expression",
+      "Molecular interactions, pathways and networks",
+      "Disease pathways",
+      "Ontology and terminology"
+    ],
+    "inputData": [
+      "Ontology data",
+      "Ontology mapping",
+      "Hierarchy",
+      "Gene name"
+    ],
+    "outputData": [
+      "Ontology data",
+      "Pathway or network",
+      "Hierarchy",
+      "Gene tree"
+    ],
+    "inputFormat": [
+      "Ontology format",
+      "Graph format"
+    ],
+    "outputFormat": [
+      "Textual format",
+      "Graph format",
+      "JSON"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -140,6 +229,30 @@
     "programmingLanguage": [
       "Python"
     ],
+    "softwareHelp": "https://github.com/idekerlab/ddot|https://ddot.readthedocs.io/en/latest/",
+    "keywords": [
+      "Omics",
+      "Disease pathways",
+      "Ontology and terminology"
+    ],
+    "inputData": [
+      "Ontology data",
+      "Ontology mapping",
+      "Hierarchy",
+      "Gene name"
+    ],
+    "outputData": [
+      "Ontology",
+      "Matrix",
+      "Pathway or network"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Graph format",
+      "Biological pathway or network format"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -166,6 +279,23 @@
     ],
     "programmingLanguage": [
       "Mathematica"
+    ],
+    "softwareHelp": "https://github.com/labsyspharm/palmer-plana-2020/blob/master/README.md",
+    "keywords": [
+      "Drug development",
+      "Oncology"
+    ],
+    "inputData": [
+      "Patient outcome data"
+    ],
+    "outputData": [
+      "Histogram"
+    ],
+    "inputFormat": [
+      "TXT"
+    ],
+    "outputFormat": [
+      "Format (by type of data)"
     ],
     "isAccessibleForFree": true
   },
@@ -194,6 +324,30 @@
     "programmingLanguage": [
       "Python"
     ],
+    "softwareHelp": "https://github.com/jyuan1322/CLiP",
+    "keywords": [
+      "GWAS study",
+      "Genotype and phenotype",
+      "Statistics and probability"
+    ],
+    "inputData": [
+      "Sequence variations",
+      "Simulation",
+      "Phenotype name"
+    ],
+    "outputData": [
+      "Genotype/phenotype report",
+      "Score",
+      "Plot"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Textual format",
+      "Graph format",
+      "PNG"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -220,6 +374,29 @@
     ],
     "programmingLanguage": [
       "Java"
+    ],
+    "softwareHelp": "https://github.com/OHDSI/usagi",
+    "keywords": [
+      "Drug development",
+      "Ontologies, nomenclature and classification",
+      "Ontology and terminology",
+      "Data identity and mapping"
+    ],
+    "inputData": [
+      "Terms",
+      "Drug name"
+    ],
+    "outputData": [
+      "Text",
+      "Drug name"
+    ],
+    "inputFormat": [
+      "CSV",
+      "Textual format"
+    ],
+    "outputFormat": [
+      "CSV",
+      "Textual format"
     ],
     "isAccessibleForFree": true
   },
@@ -248,6 +425,34 @@
     "programmingLanguage": [
       "Shell",
       "SQL"
+    ],
+    "softwareHelp": "https://github.com/ltscomputingllc/faersdbstats/tree/master/documentation",
+    "keywords": [
+      "Pharmacovigilance",
+      "Drug development",
+      "Statistics and probability",
+      "Ontologies, nomenclature and classification",
+      "Ontology and terminology",
+      "Data identity and mapping",
+      "Data submission, annotation and curation",
+      ""
+    ],
+    "inputData": [
+      "Terms",
+      "Drug name"
+    ],
+    "outputData": [
+      "Drug name",
+      "Drug report",
+      "Statistical estimate score"
+    ],
+    "inputFormat": [
+      "CSV",
+      "Textual format"
+    ],
+    "outputFormat": [
+      "CSV",
+      "Textual format"
     ],
     "isAccessibleForFree": true
   },
@@ -278,6 +483,25 @@
     "programmingLanguage": [
       "Python"
     ],
+    "softwareHelp": "https://github.com/CaseyTa/cohd",
+    "keywords": [
+      "Medicine",
+      "Medical informatics",
+      "Data mining"
+    ],
+    "inputData": [
+      "Text"
+    ],
+    "outputData": [
+      "Text mining report"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Textual format",
+      "Database search results"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -307,6 +531,23 @@
       "Python",
       "TeX"
     ],
+    "softwareHelp": "http://adeft.readthedocs.io/",
+    "keywords": [
+      "Data identity and mapping"
+    ],
+    "inputData": [
+      "Text"
+    ],
+    "outputData": [
+      "Text mining report",
+      "Text"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "Textual format"
+    ],
     "isAccessibleForFree": true
   },
   {
@@ -334,6 +575,31 @@
     "programmingLanguage": [
       "R",
       "Python"
+    ],
+    "softwareHelp": "https://bioconductor.org/packages/release/bioc/html/GRmetrics.html",
+    "keywords": [
+      "Cell biology",
+      "Oncology",
+      "Compound libraries and screening"
+    ],
+    "inputData": [
+      "Growth rate inhibition",
+      "Cell line name",
+      "Cell number",
+      "Concentration",
+      "Treatment agent",
+      "Treatment time"
+    ],
+    "outputData": [
+      "Dose-response data",
+      "Plot"
+    ],
+    "inputFormat": [
+      "CSV",
+      "TSV"
+    ],
+    "outputFormat": [
+      "Graph format"
     ],
     "codeRepository": "https://github.com/uc-bd2k/GRmetrics",
     "isAccessibleForFree": true
@@ -363,6 +629,34 @@
     ],
     "programmingLanguage": [
       "R"
+    ],
+    "softwareHelp": "https://github.com/labsyspharm/DRIAD",
+    "keywords": [
+      "Machine learning",
+      "Gene expression",
+      "Disease genes and proteins"
+    ],
+    "inputData": [
+      "Gene expression profile",
+      "Drug-associated gene list",
+      "Gene symbol",
+      "Treatment agent"
+    ],
+    "outputData": [
+      "Plot",
+      "Drug report"
+    ],
+    "inputFormat": [
+      "TSV",
+      "CSV",
+      "xlsx",
+      "xls"
+    ],
+    "outputFormat": [
+      "CSV",
+      "xlsx",
+      "xls",
+      "Graph format"
     ],
     "codeRepository": "https://github.com/labsyspharm/DRIADrc",
     "isAccessibleForFree": true
