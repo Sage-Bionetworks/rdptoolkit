@@ -25,7 +25,7 @@ class Puller:
                     "bioschemas": "https://discovery.biothings.io/view/bioschemas",
                 },
                 "@type": "ComputationalTool",
-                # "@id": f"https://cancercomplexity.synapse.org/#{tool.toolId}",
+                # "@id": f"https://cancercomplexity.synapse.org/#{tool['toolId']}",
                 "description": tool["description"],
                 "name": tool["toolName"],
                 "url": tool["homepage"],
@@ -35,6 +35,7 @@ class Puller:
                 "downloadUrl": tool["downloadUrl"],
                 "operatingSystem": tool["operatingSystem"],
                 "programmingLanguage": tool["language"],
+                "softwareVersion": tool["version"],
             }
             self.tools.append(new_tool)
         with open("data/computational-tools/cckp-tools.json", "w") as f:
@@ -100,6 +101,7 @@ class Puller:
                     "downloadUrl": "https://nlpsandbox.io",
                     "operatingSystem": ["Windows", "Mac", "Linux"],
                     "programmingLanguage": [],
+                    "softwareVersion": tool["tool_version"],
                     # "grantId": None,
                     # "grantName": None,
                     # "grantNumber": None,

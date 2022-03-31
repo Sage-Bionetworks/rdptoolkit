@@ -582,6 +582,206 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719600",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719606",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719638",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719734",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719945",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719957",
+    "description": "Example implementation of the NLP Sandbox Date Annotator API",
+    "name": "date-annotator-example",
+    "url": "https://github.com/nlpsandbox/date-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719977",
+    "description": "Example implementation of the NLP Sandbox Date Annotator API",
+    "name": "date-annotator-example",
+    "url": "https://github.com/nlpsandbox/date-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9720045",
+    "description": "A named-entity recognition program based on neural networks",
+    "name": "neuroner",
+    "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712263",
     "description": "Example implementation of the NLP Sandbox Person Name Annotator",
     "name": "person-name-annotator-example",
@@ -982,6 +1182,131 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719641",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719650",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719665",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719737",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719948",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712264",
     "description": "Example implementation of the NLP Sandbox Physical Address Annotator",
     "name": "physical-address-annotator-example",
@@ -1207,6 +1532,81 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719649",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719664",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719789",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712689",
     "description": "Example implementation of the NLP Sandbox Contact Annotator API",
     "name": "contact-annotator-example",
@@ -1407,6 +1807,81 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719646",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719661",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719733",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712665",
     "description": "Example implementation of the NLP Sandbox ID Annotator API",
     "name": "id-annotator-example",
@@ -1558,6 +2033,56 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719492",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719663",
+    "description": "Example implementation of the NLP Sandbox PHI Annotator API",
+    "name": "phi-annotator-example",
+    "url": "https://github.com/nlpsandbox/phi-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": []
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9719735",
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
