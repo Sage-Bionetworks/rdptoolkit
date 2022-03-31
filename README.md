@@ -59,10 +59,10 @@ Push NLP Sandbox tools to Elasticsearch.
 ```console
 rdptoolkit push tools \
   --tools_filepath data/computational-tools/nlpsandbox-tools.json \
-  --es_index nlpsandbox-computational-tools-20220301
+  --es_index nlpsandbox-computational-tools-20220401
 
 Reading data/computational-tools/nlpsandbox-tools.json
-Pushing tools to ES index nlpsandbox-computational-tools-20220301
+Pushing tools to ES index nlpsandbox-computational-tools-20220401
 ```
 
 <!-- Links -->
