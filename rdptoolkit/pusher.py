@@ -25,10 +25,9 @@ class Pusher:
 
     def generate_tools_data(self, es_index):
         for tool in self.tools:
-            yield {
-                "_index": es_index,
-                "tool": tool,
-            }
+            payload = tool
+            payload["_index"] = es_index
+            yield payload
 
     def push_tools(self, es_index):
         """
