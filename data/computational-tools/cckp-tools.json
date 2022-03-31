@@ -24,7 +24,8 @@
     ],
     "programmingLanguage": [
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -51,7 +52,8 @@
     ],
     "programmingLanguage": [
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -79,7 +81,8 @@
     "programmingLanguage": [
       "Python",
       "Shell"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -108,7 +111,8 @@
     "programmingLanguage": [
       "C++",
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -135,7 +139,8 @@
     ],
     "programmingLanguage": [
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -161,7 +166,8 @@
     ],
     "programmingLanguage": [
       "Mathematica"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -187,7 +193,8 @@
     ],
     "programmingLanguage": [
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -213,7 +220,8 @@
     ],
     "programmingLanguage": [
       "Java"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -240,7 +248,8 @@
     "programmingLanguage": [
       "Shell",
       "SQL"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -268,7 +277,8 @@
     ],
     "programmingLanguage": [
       "Python"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -296,7 +306,8 @@
     "programmingLanguage": [
       "Python",
       "TeX"
-    ]
+    ],
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -323,7 +334,9 @@
     "programmingLanguage": [
       "R",
       "Python"
-    ]
+    ],
+    "codeRepository": "https://github.com/uc-bd2k/GRmetrics",
+    "isAccessibleForFree": true
   },
   {
     "resourceTypeName": "Tool",
@@ -350,6 +363,8 @@
     ],
     "programmingLanguage": [
       "R"
-    ]
+    ],
+    "codeRepository": "https://github.com/labsyspharm/DRIADrc",
+    "isAccessibleForFree": true
   }
 ]

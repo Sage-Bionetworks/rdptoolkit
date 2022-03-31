@@ -37,6 +37,21 @@ class Puller:
                 "programmingLanguage": tool["language"],
                 "softwareVersion": tool["version"],
             }
+
+            if tool["linkUrl"] is not None:
+                # TODO: Consider including website extension, yet what if
+                # github.microsoft.com, for instance.
+                res = [
+                    ele
+                    for ele in ["github", "gitlab", "bitbucket"]
+                    if (ele in tool["linkUrl"])
+                ]
+                if bool(res):
+                    new_tool["codeRepository"] = tool["linkUrl"]
+
+            if tool["cost"] == "Free of charge":
+                new_tool["isAccessibleForFree"] = True
+
             self.tools.append(new_tool)
         with open("data/computational-tools/cckp-tools.json", "w") as f:
             json.dump(self.tools, f, indent=2)
@@ -102,6 +117,8 @@ class Puller:
                     "operatingSystem": ["Windows", "Mac", "Linux"],
                     "programmingLanguage": [],
                     "softwareVersion": tool["tool_version"],
+                    "codeRepository": tool["tool_url"],  # may not be a repo
+                    "isAccessibleForFree": True
                     # "grantId": None,
                     # "grantName": None,
                     # "grantNumber": None,
