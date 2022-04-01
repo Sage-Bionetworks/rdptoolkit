@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json
-import os
 import synapseclient
+import zlib
 
 from rdptoolkit.config import config
 
@@ -17,6 +17,7 @@ class Puller:
         with open("data/cckp-tools-sample.json") as f:
             tools = json.load(f)
         for tool in tools:
+            tool_id = zlib.adler32(tool["toolName"].encode("utf-8"))
             new_tool = {
                 "resourceTypeName": "Tool",
                 "@context": {
@@ -25,7 +26,7 @@ class Puller:
                     "bioschemas": "https://discovery.biothings.io/view/bioschemas",
                 },
                 "@type": "ComputationalTool",
-                # "@id": f"https://cancercomplexity.synapse.org/#{tool['toolId']}",
+                "@id": f"https://cancercomplexity.synapse.org/#{tool_id}",
                 "sdPublisher": {
                     "@type": "Organization",
                     "name": "Cancer Complexity Knowledge Portal",
