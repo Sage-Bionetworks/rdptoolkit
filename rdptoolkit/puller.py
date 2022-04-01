@@ -26,6 +26,10 @@ class Puller:
                 },
                 "@type": "ComputationalTool",
                 # "@id": f"https://cancercomplexity.synapse.org/#{tool['toolId']}",
+                "sdPublisher": {
+                    "@type": "Organization",
+                    "name": "Cancer Complexity Knowledge Portal",
+                },
                 "description": tool["description"],
                 "name": tool["toolName"],
                 "url": tool["homepage"],
@@ -114,6 +118,10 @@ class Puller:
                     },
                     "@type": "ComputationalTool",
                     "@id": f"https://nlpsandbox.io/#{tool['sub_id']}",
+                    "sdPublisher": {
+                        "@type": "Organization",
+                        "name": "NLP Sandbox",
+                    },
                     "description": tool["tool_description"],
                     "name": tool["tool_name"],
                     "url": tool["tool_url"],

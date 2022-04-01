@@ -8,6 +8,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712271",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -52,6 +56,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712514",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -96,6 +104,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712538",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -140,6 +152,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712572",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Date annotator based on machine learning",
     "name": "connor-date-annotator",
     "url": "https://github.com/cascadianblue/connor-date-annotator",
@@ -184,6 +200,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712578",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -228,6 +248,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712699",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -272,6 +296,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712702",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -316,6 +344,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712725",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -360,6 +392,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712738",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -404,6 +440,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712863",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
     "name": "cantata-annotator",
     "url": "https://github.com/MCW-BMI/cantata-phi-annotator",
@@ -448,6 +488,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713393",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
     "name": "phi-annotator-spark-nlp-ner-deid-large",
     "url": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
@@ -492,6 +536,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713402",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_synthetic_en_2.7.4_2.4_1613746244835, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
     "name": "phi-annotator-spark-nlp-ner-deid-synthetic",
     "url": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
@@ -536,6 +584,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9714119",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
     "name": "cantata-annotator",
     "url": "https://github.com/MCW-BMI/cantata-phi-annotator",
@@ -580,6 +632,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9714182",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -624,6 +680,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715255",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -668,6 +728,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9716963",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example-java",
     "url": "https://github.com/nlpsandbox/date-annotator-example-java",
@@ -712,6 +776,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717151",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-large-NER)",
     "name": "phi-annotator-huggingface-bert-large-ner",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -756,6 +824,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717303",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -800,6 +872,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717322",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -844,6 +920,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717330",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -888,6 +968,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717623",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "BERT-based PHI annotator (connorboyle/bert-ner-i2b2)",
     "name": "phi-annotator-bert-ner-i2b2",
     "url": "https://github.com/cascadianblue/bert-phi-annotator",
@@ -932,6 +1016,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719026",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -976,6 +1064,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719493",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1020,6 +1112,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719600",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1064,6 +1160,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719606",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1108,6 +1208,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719638",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1152,6 +1256,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719734",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1196,6 +1304,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719945",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1240,6 +1352,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719957",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -1284,6 +1400,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719977",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Date Annotator API",
     "name": "date-annotator-example",
     "url": "https://github.com/nlpsandbox/date-annotator-example",
@@ -1328,6 +1448,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9720045",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -1371,7 +1495,59 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://nlpsandbox.io/#9720072",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
+    "description": "Example implementation of the NLP Sandbox Date Annotator API",
+    "name": "date-annotator-example",
+    "url": "https://github.com/nlpsandbox/date-annotator-example",
+    "applicationCategory": [
+      "Docker image"
+    ],
+    "license": "apache-2.0",
+    "softwareVersion": "1.2.0",
+    "downloadUrl": "https://nlpsandbox.io",
+    "operatingSystem": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "programmingLanguage": [],
+    "codeRepository": "https://github.com/nlpsandbox/date-annotator-example",
+    "isAccessibleForFree": true,
+    "softwareHelp": "https://nlpsandbox.io",
+    "keywords": [
+      "NLP",
+      "PHI annotation"
+    ],
+    "inputData": [
+      "Clinical record"
+    ],
+    "outputData": [
+      "Annotations"
+    ],
+    "inputFormat": [
+      "Textual format"
+    ],
+    "outputFormat": [
+      "JSON"
+    ]
+  },
+  {
+    "resourceTypeName": "Tool",
+    "@context": {
+      "dct": "http://purl.org/dc/terms/",
+      "schema": "http://schema.org",
+      "bioschemas": "https://discovery.biothings.io/view/bioschemas"
+    },
+    "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712263",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Person Name Annotator",
     "name": "person-name-annotator-example",
     "url": "https://github.com/nlpsandbox/person-name-annotator-example",
@@ -1416,6 +1592,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712574",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1460,6 +1640,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712594",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "ML based annotator by Connor Boyle",
     "name": "connor-person-name-annotator",
     "url": "https://github.com/cascadianblue/person-name-annotator",
@@ -1504,6 +1688,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712741",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Connor Boyle's PHI annotator based on a linear SVM.",
     "name": "connor-phi-annotator",
     "url": "https://github.com/cascadianblue/phi-annotator",
@@ -1548,6 +1736,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712748",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Person Name Annotator API",
     "name": "person-name-annotator-example",
     "url": "https://github.com/nlpsandbox/person-name-annotator-example",
@@ -1592,6 +1784,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712761",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1636,6 +1832,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712880",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Cantata implementation of the NLP Sandbox PHI Annotator API",
     "name": "cantata-annotator",
     "url": "https://github.com/MCW-BMI/cantata-phi-annotator",
@@ -1680,6 +1880,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715279",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
     "name": "phi-annotator-spark-nlp-ner-deid-large",
     "url": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
@@ -1724,6 +1928,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717022",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
     "name": "phi-annotator-huggingface-bert-base-ner",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -1768,6 +1976,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717128",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
     "name": "phi-annotator-huggingface-bert-base-ner",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -1812,6 +2024,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717245",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Person Name Annotator API",
     "name": "person-name-annotator-example",
     "url": "https://github.com/nlpsandbox/person-name-annotator-example",
@@ -1856,6 +2072,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717331",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -1900,6 +2120,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717333",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
     "name": "phi-annotator-huggingface-bert-base-ner",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -1944,6 +2168,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717335",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER-uncased)",
     "name": "phi-annotator-huggingface-bert-base-ner-uncased",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -1988,6 +2216,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719091",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2032,6 +2264,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719366",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -2076,6 +2312,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719641",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2120,6 +2360,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719650",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2164,6 +2408,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719665",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2208,6 +2456,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719737",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2252,6 +2504,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719948",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2296,6 +2552,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712264",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Physical Address Annotator",
     "name": "physical-address-annotator-example",
     "url": "https://github.com/nlpsandbox/physical-address-annotator-example",
@@ -2340,6 +2600,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712782",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2384,6 +2648,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712913",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2428,6 +2696,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715275",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -2472,6 +2744,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715282",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
     "name": "phi-annotator-spark-nlp-ner-deid-large",
     "url": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
@@ -2516,6 +2792,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717019",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER)",
     "name": "phi-annotator-huggingface-bert-base-ner",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -2560,6 +2840,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9717044",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Hugging Face-based PHI annotator (dslim/bert-base-NER-uncased)",
     "name": "phi-annotator-huggingface-bert-base-ner-uncased",
     "url": "https://github.com/nlpsandbox/phi-annotator-huggingface",
@@ -2604,6 +2888,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719097",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2648,6 +2936,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719471",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -2692,6 +2984,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719649",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2736,6 +3032,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719664",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2780,6 +3080,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719789",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2824,6 +3128,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712689",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox Contact Annotator API",
     "name": "contact-annotator-example",
     "url": "https://github.com/nlpsandbox/contact-annotator-example",
@@ -2868,6 +3176,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712752",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2912,6 +3224,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713091",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -2956,6 +3272,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715273",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -3000,6 +3320,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715294",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Spark NLP-based PHI annotator (NER model: ner_deid_large_en_2.5.3_2.4_1595427435246, embeddings model: embeddings_clinical_en_2.4.0_2.4_1580237286004)",
     "name": "phi-annotator-spark-nlp-ner-deid-large",
     "url": "https://github.com/nlpsandbox/phi-annotator-spark-nlp",
@@ -3044,6 +3368,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715346",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Connor Boyle's PHI annotator based on a linear SVM.",
     "name": "connor-phi-annotator",
     "url": "https://github.com/cascadianblue/phi-annotator",
@@ -3088,6 +3416,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719142",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3132,6 +3464,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719392",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -3176,6 +3512,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719646",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3220,6 +3560,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719661",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3264,6 +3608,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719733",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3308,6 +3656,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712665",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox ID Annotator API",
     "name": "id-annotator-example",
     "url": "https://github.com/nlpsandbox/id-annotator-example",
@@ -3352,6 +3704,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9712753",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3396,6 +3752,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9713096",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3440,6 +3800,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9715289",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -3484,6 +3848,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719100",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3528,6 +3896,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719394",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "A named-entity recognition program based on neural networks",
     "name": "neuroner",
     "url": "https://github.com/nlpsandbox/phi-annotator-neuroner",
@@ -3572,6 +3944,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719492",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3616,6 +3992,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719663",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
@@ -3660,6 +4040,10 @@
     },
     "@type": "ComputationalTool",
     "@id": "https://nlpsandbox.io/#9719735",
+    "sdPublisher": {
+      "@type": "Organization",
+      "name": "NLP Sandbox"
+    },
     "description": "Example implementation of the NLP Sandbox PHI Annotator API",
     "name": "phi-annotator-example",
     "url": "https://github.com/nlpsandbox/phi-annotator-example",
