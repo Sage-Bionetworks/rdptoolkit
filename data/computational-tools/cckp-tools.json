@@ -7,6 +7,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#843515466",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -60,6 +61,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#311165884",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -111,6 +113,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#729286084",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -164,6 +167,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#2464221828",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -227,6 +231,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#3825339437",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -283,6 +288,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#965477804",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -331,6 +337,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#28511681",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -386,6 +393,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#332006289",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -440,6 +448,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#465241111",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -500,6 +509,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#68223391",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -552,6 +562,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#88670693",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -602,6 +613,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#311100337",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
@@ -660,6 +672,7 @@
       "bioschemas": "https://discovery.biothings.io/view/bioschemas"
     },
     "@type": "ComputationalTool",
+    "@id": "https://cancercomplexity.synapse.org/#71434597",
     "sdPublisher": {
       "@type": "Organization",
       "name": "Cancer Complexity Knowledge Portal"
